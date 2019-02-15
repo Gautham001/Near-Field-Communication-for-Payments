@@ -1,0 +1,21 @@
+REQUIREMENT ANALYSIS:
+
+       
+    Github : https://github.com/Gautham001/Near-Field-Communication-for-Payments
+
+    Blogspot : https://nfcforpayments.blogspot.com/
+
+Software Requirements
+     Coding language : Java
+    
+     Android : Ahead-Of-Time (A.O.T Compiler) bundle.
+
+Hardware Requirements
+       NFC Card/Tag
+
+Contents
+      We have conducted research on the different API's available for use (Google Pay ,Paytm).
+
+      Installed Android Studio on Ubuntu with the necessary packages required for use and checked the same.
+
+                                   
