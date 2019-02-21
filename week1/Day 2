@@ -1,0 +1,28 @@
+1) Requirement Analysis : 
+-> Android Studio to Write code
+->We used JAVA language
+->Working on the module namely
+           -> Paytm API Integration with Android.
+           
+ 2) Design :
+ -> Created a Business account for Paytm
+ -> Created a Sandbox account which gives indirect access for Developers for the credentials.
+ -> URL : https://paytm.com/business/paymentssignup/online
+ 
+ 3) Implementation and coding : 
+ **Paytm Integration with Android
+ -> Configuring the Paytm Checksum kit 
+ -> Downloaded PGSDK_V2.1.jar(a jar file)
+ -> Adding Permissions for Paytm Activity
+ -> Adding Retrofit and GSON
+ -> Created a small user interface
+ 
+ 4) Testing : 
+ ->Tested the connection by using the checksum kit and package installed.
+ ->Tested the permissions of Paytm through Business API.
+ -> Tested the small user Interface.
+ 
+ 5) Maintenance : 
+ ->Updated the code in GitHub as week1/Day2 
+ ->Updated the literature survey on blogspot.com/Week1-Day2-Literature-Survey.html
+ -Implementing the code to complete the present module.
