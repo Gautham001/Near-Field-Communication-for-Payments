@@ -1,4 +1,4 @@
-package com.example.abhishek.paytmtest;
+package com.example.paytmtest;
 
 import android.content.Context;
 import android.os.Handler;
