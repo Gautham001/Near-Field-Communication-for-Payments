@@ -1,4 +1,4 @@
-package com.example.abhishek.paytmtest;
+package com.example.paytmtest;
 
 import android.app.ProgressDialog;
 import android.content.Intent;
