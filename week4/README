@@ -1,13 +1,9 @@
 Details for Paytm integration
 
+https://dashboard.paytm.com
 
-kk93951@gmail.com
-Krishna123
-
-
-in php.ini remove ;
-extension=php_openssl.dll
-
+Username:kk93951@gmail.com
+Password:Krishna123
 
 Banking Site
 https://developer.paytm.com/docs/testing-integration/
